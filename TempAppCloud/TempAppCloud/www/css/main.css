@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+}
+
+td {
+    font-size: 20px;
+     vertical-align: inherit;
+} 
+canvas{
+    margin-top: 100px;
+}
+
+#bodyId{
+    background-color: red!important;
+}
+
+span{
+    display:inline-block; vertical-align:middle;
+}
